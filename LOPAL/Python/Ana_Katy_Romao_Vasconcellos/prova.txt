@@ -1,0 +1,13 @@
+4-Informei ao usuário o que ele deveria fazer, depois pedi para ele digitar um número inteiro e positivo, logo após ecrevi o cálculo a ser feito e por fim inmprime uma mensagem dizendo se era perfeito ou não perfeito.
+
+5- Informei ao usuário o que deveria ser feito, depois pedi para ele informar a quantidade de itens e o preço desses itens, após isso informei qual seria a conta a ser feita e digitei o que deveria ser feito caso o preço fosse maior que 10 ou se o preço fosse maior que 20 e ao fim eu printei a resposta.
+
+6- Informei ao usuário o que ele deveria fazer, depois pedi para ele adicionar um número, logo após informei a conta para descobrir se ele era par e caso o número não fosse par ele seria ímpar.
+
+7 - Informei ao usuário o que ele tinha que fazer, depois adicionei a função e coloquei o cálculo que iria ser feito dentro dela e retornei o resultado. Após isso pedi para o usuário informar o raio e a altura do cilindro e por fim eu informei para ele qual era o volume do cilindro.
+
+8- Informei ao usuário o que ele tinha que fazer, depois pedi que ele digitasse um número, informei a conta a ser feita para descobrir se o número era divisivel por 3 ou não e printei isso.
+
+9- Informei ao usuário o que deve ser feito, depois pedi para ele digitar três números e depois informai a conta que seria feita, logo após informei o que deveria ser feito para saber se ele é isósceles e caso não fizesse isso não seria um triângulo isósceles ou então tinha algum erro.
+
+10- Informei ao usuário o que irá ser feito, depois pedi pra ele digitar a quantidade de dias de atraso, logo após informei a conta caso a quantidade de dias fosse menor que 10 e informei outra conta caso fosse maior que 10 e ao final eu printei o valor do acrésimo da multa. 

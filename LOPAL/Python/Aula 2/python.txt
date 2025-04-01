@@ -1,0 +1,44 @@
+Operadores Lógicos:
+Not - Representa a operação de negação, também chamada de inversão
+
+And - Resulta verdadeiro apenas quando seus dois operadores forem verdadeiros
+
+v1 | v2  | v1 or v2
+V  |  V  |  V
+V  |  F  |  F
+F  |  V  |  F
+F  |  F  |  F
+
+Or - Resulta em falso apenas se seus dois operadores tambem forem falsos.
+
+SAÍDA DE DADOS:
+Print - Exibe uma mensagem na tela do computador
+
+Entrada de Dados:
+input- espera o usuário digitar um texto no teclado e pressionar < ENTER>
+
+operadores Aritméticos.
+
+a+=1
+a-=1 
+a=a-1
+
+*Algumas Funções Matemáticas.
+#-*- coding: UTF-8 -*-
+
+import math
+
+# Exponenciação:
+a = 3 ** 2
+print(a)
+
+Radiciação
+b = math.sqrt(a)
+print(b)
+
+PI:
+print(math.pi)
+
+n = 0
+print(math.cos(n))
+print(math.sin(n))
